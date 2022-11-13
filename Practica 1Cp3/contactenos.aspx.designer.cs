@@ -11,7 +11,7 @@ namespace Practica_1Cp3
 {
 
 
-    public partial class Default
+    public partial class contactenos
     {
     }
 }

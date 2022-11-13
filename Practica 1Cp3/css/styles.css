@@ -1,7 +1,6 @@
-﻿@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
-
+﻿@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
 * {
-    font-family: 'Island Moments', cursive;
+    font-family: 'Oswald', cursive;
     color: #808080
 }
 
